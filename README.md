@@ -1,5 +1,6 @@
 # CanalProjectRepo  
 Builds and other resources from my game project.  
+First build aviable only for windows
 
 ------If you want to play the first build:------  
 Game rules are also aviable in the pause menu (ESC key)  
