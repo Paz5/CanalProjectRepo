@@ -8,7 +8,7 @@ Gameplay:
 Hitting obstacles subtracts health.(red zones)
 You speed up over time.
 You get a short boost for near misses. (green zones)
-You're being chased by the red dot, it will accelerate slightly faster than your default speed gain.
+You're being chased by a pursuer (red dot), it will accelerate slightly faster than your default speed gain.
 You need to hit green zones to outpace it.
 
 Controls:
