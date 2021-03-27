@@ -1,7 +1,7 @@
 # CanalProjectRepo  
 Builds and other resources from my game project.  
 
-//If you want to play the first build:  
+------If you want to play the first build:------  
 Game rules are also aviable in the pause menu (ESC key)  
   
 Gameplay:  
